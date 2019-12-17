@@ -7,9 +7,9 @@ Contract code verified Etherscan: https://etherscan.io/address/0x8a854288a597603
 DETAILS
 =======
 Crowdsale ended 13 December 2017. 
-Minting contract GET is finalized.  
-All GET from crowdsale has been released.
-Token is movable/released.
+Minting contract GET is finalized.   
+All GET from crowdsale has been released.  
+Token is movable/released.  
 
 PREVIOUS AUDIT 
 =========
